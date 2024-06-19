@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.37-debian
 oraclelinux:7.9
+oracleinanutshell/oracle-xe-11g:latest
