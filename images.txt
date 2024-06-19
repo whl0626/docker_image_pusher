@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:8.0.37-debian
 oraclelinux:7.9
 oracleinanutshell/oracle-xe-11g:latest
+oraclelinux:8.10
